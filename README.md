@@ -5,7 +5,7 @@ I am a computer engineer and also a mobile application developer. Since 2020, I 
 ### My Social Media Accounts:
 
 <p dir="auto">
-  <a href="https://linkedin.com/in/yigityesilada" rel="nofollow"><img alt="yigityesilada" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/linked-in-alt.svg" width="40" style="max-width: 100%;"></a>&nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/yigityesiladaa/" rel="nofollow"><img alt="yigityesilada" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/linked-in-alt.svg" width="40" style="max-width: 100%;"></a>&nbsp; &nbsp;
   <a href="https://instagram.com/yigityesilada" rel="nofollow"><img alt="yigityesilada" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/instagram.svg" width="40" style="max-width: 100%;"></a>&nbsp; &nbsp;
   <a href="https://www.youtube.com/@codeboyy" rel="nofollow"><img alt="yigityesilada" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="55" style="max-width: 100%;"></a>
 </p>
