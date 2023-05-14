@@ -20,6 +20,7 @@ I am a computer engineer and also a mobile application developer. Since 2020, I 
 <a href="https://firebase.google.com/" rel="nofollow"><img alt="firebase" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/firebase.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://git-scm.com/" rel="nofollow"><img alt="git" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/git.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.github.com/" rel="nofollow"><img alt="github" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/github.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://desktop.github.com//" rel="nofollow"><img alt="github_desktop" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/github_desktop.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.photoshop.com/en" rel="nofollow"><img alt="photoshop" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/photoshop.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a href="https://www.postman.com/" rel="nofollow"><img alt="postman" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/postman.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
