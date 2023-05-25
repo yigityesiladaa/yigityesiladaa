@@ -10,6 +10,8 @@ I am a computer engineer and also a mobile application developer. Since 2020, I 
   <a href="https://www.youtube.com/@codeboyy" rel="nofollow"><img alt="yigityesilada" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="55" style="max-width: 100%;"></a>
 </p>
 
+<a href = "https://yigityesilada.medium.com/">My Medium Blog Account</a>
+
 ### Languages & Tools I Know
 
 <a href="https://kotlinlang.org/" rel="nofollow"><img alt="kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
