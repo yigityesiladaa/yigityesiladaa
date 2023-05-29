@@ -1,28 +1,23 @@
-### Welcome to my Github page, I'm Yigit Yesilada 👋
+<h1 align="center">Welcome to my Github page, I'm Yigit Yesilada 👋</h1>
+<h3 align="center">Mobile Application Developer (Flutter/Kotlin) -- Computer Engineer</h3>
 
-I am a computer engineer and also a mobile application developer. Since 2020, I have been taking part in both trainings and projects on mobile application development.
+<h3 align="center">Social Accounts</h3>
+<p align="center">
+<a href="https://linkedin.com/in/yigityesiladaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yigityesiladaa" height="30" width="40" /></a>
+<a href="https://instagram.com/yigityesilada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigityesilada" height="30" width="40" /></a>
+<a href="https://medium.com/@yigityesilada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yigityesilada" height="30" width="40" /></a>
+</p>
 
-### My Social Media Accounts:
-
-<p dir="auto">
-  <a href="https://www.linkedin.com/in/yigityesiladaa/" rel="nofollow"><img alt="yigityesilada" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/linked-in-alt.svg" width="40" style="max-width: 100%;"></a>&nbsp; &nbsp;
-  <a href="https://instagram.com/yigityesilada" rel="nofollow"><img alt="yigityesilada" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/instagram.svg" width="40" style="max-width: 100%;"></a>&nbsp; &nbsp;
-
-
-<a href = "https://yigityesilada.medium.com/">My Medium Blog Account</a>
-
-### Languages & Tools I Know
-
-<a href="https://kotlinlang.org/" rel="nofollow"><img alt="kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://flutter.dev/" rel="nofollow"><img alt="flutter" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/language_icons/flutter-icon.svg" width="35" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://developer.android.com/studio" rel="nofollow"><img alt="android_studio" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/android_studio.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://code.visualstudio.com/" rel="nofollow"><img alt="vscode" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/vscode.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://sqlite.org/" rel="nofollow"><img alt="sqlite" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/sqlite.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://firebase.google.com/" rel="nofollow"><img alt="firebase" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/firebase.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://git-scm.com/" rel="nofollow"><img alt="git" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/git.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.github.com/" rel="nofollow"><img alt="github" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/github.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://desktop.github.com//" rel="nofollow"><img alt="github_desktop" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/github_desktop.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.photoshop.com/en" rel="nofollow"><img alt="photoshop" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/photoshop.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.postman.com/" rel="nofollow"><img alt="postman" src="https://github.com/yyigityesiladaa/yyigityesiladaa/blob/main/database_and_tool_icons/postman.svg" width="40" style="max-width: 100%;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-
-
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;&nbsp;</a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>&nbsp;&nbsp;</a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>&nbsp;&nbsp;</a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>&nbsp;&nbsp;</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;&nbsp;</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;</a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;&nbsp;</a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;&nbsp;</a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;&nbsp;</a>
+</p>
