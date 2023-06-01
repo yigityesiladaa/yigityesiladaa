@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my Github page, I am Yigit Yesilada 👋</h1>
-<h3 align="center">Mobile Application Developer (Flutter/Kotlin) -- Computer Engineer</h3>
+<h3 align="center">Mobile Application Developer (Kotlin/Flutter) -- Computer Engineer</h3>
 
 <h3 align="center">Social Accounts</h3>
 <p align="center">
