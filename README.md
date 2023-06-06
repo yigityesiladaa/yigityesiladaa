@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to my Github page, I am Yigit Yesilada 👋</h1>
 <h3 align="center">Mobile Application Developer (Kotlin/Flutter) -- Computer Engineer</h3>
+<h4 align="center">I graduated from BAIBU as a computer engineer. I am developing mobile applications using Kotlin and Flutter. MVVM, Retrofit, Livedata, Kotlin Flows, Navigation, Firebase, Room, Databinding, Viewbinding, Push notification and 3rd party libraries in my Kotlin Projects, Bloc Pattern, GetIt Service, Dependency Injection, Firebase, SQFlite and 3rd party libraries in my Flutter projects I use.
+</h4>
 
 <h3 align="center">Social Accounts</h3>
 <p align="center">
