@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my GitHub page, I am Yigit Yesilada 👋</h1>
 <h3 align="center">Mobile Application Developer (Kotlin/Flutter) -- Computer Engineer</h3>
-<h4 align="center">I graduated from BAIBU as a computer engineer. I am developing mobile applications using Kotlin and Flutter. 
-I usually use MVVM, Retrofit, Livedata, Kotlin Flows, Navigation, Firebase, Room, Databinding, Viewbinding, Push notification and 3rd party libraries in my Kotlin projects. In my Flutter projects, I often use Bloc Pattern, GetIt Service, Dependency Injection, Firebase, SQFlite and 3rd party libraries.
+<h4 align="center">I am a computer engineer. I develop mobile applications using Flutter and Kotlin. I often use GetX, Dependency Injection, Firebase, SQFlite and 3rd party libraries in my Flutter projects. In my Kotlin projects, I generally use MVVM, Retrofit, Livedata, Kotlin Flows, Navigation, Firebase, Room, Databinding, Viewbinding, Push notice and 3rd party libraries.
 </h4>
 
 <h3 align="center">Social Accounts</h3>
